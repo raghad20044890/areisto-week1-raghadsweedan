@@ -1,0 +1,6 @@
+name: areisto_week1_solution
+description: Solution for the Areisto Flutter Program Week 1 assignment.
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  test: ^1.25.0
